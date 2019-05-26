@@ -27,11 +27,11 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 2) Make the program executable 
 ```
- sudo chmod +x pastebin-sniffer.py
+ sudo chmod +x pastebin_sniffer.py
 ```
 3) Run the program
 ```
- ./pastebin-sniffer
+ ./pastebin_sniffer
 ```
  
   
